@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F557iCcjmy7vaxNinIRaOYz7o2uKWR5DLLDm69aFmP6Hk5nJcuSlsjNw3wJ584kwF3eWCVa1n4tsnDhqwwiUbw==",
+  "dgSpecHash": "2YNQjOsvBZQEcuXnBsfpy6OksCbCMuNZO7WMgme7OznR7KYGLXYUyTXJAFosriOJYReFaeXP/b1Q7638kG4xKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
+  "projectFilePath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerce.Api.Orders\\ECommerce.Api.Orders.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saeeda6\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\saeeda6\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -21,6 +21,7 @@
     "C:\\Users\\saeeda6\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\saeeda6\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\saeeda6\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\saeeda6\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\saeeda6\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\saeeda6\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\saeeda6\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

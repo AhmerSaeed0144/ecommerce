@@ -16,16 +16,16 @@ builder.Services.AddScoped<ICustomerService, CustomerService>();
 
 builder.Services.AddHttpClient("OrdersService", config =>
 {
-    config.BaseAddress = new Uri(configuration["Services:Orders"]);
+    config.BaseAddress = new Uri(Environment.GetEnvironmentVariable("Services__Orders") ?? configuration["Services:Orders"]);
 });
 builder.Services.AddHttpClient("CustomersService", config =>
 {
-    config.BaseAddress = new Uri(configuration["Services:Customers"]);
+    config.BaseAddress = new Uri(Environment.GetEnvironmentVariable("Services__Customers") ?? configuration["Services:Customers"]);
 }).AddTransientHttpErrorPolicy(p => p.WaitAndRetryAsync(5, _ => TimeSpan.FromMilliseconds(500)));
 
 builder.Services.AddHttpClient("ProductsService", config =>
 {
-    config.BaseAddress = new Uri(configuration["Services:Products"]);
+    config.BaseAddress = new Uri(Environment.GetEnvironmentVariable("Services__Products") ?? configuration["Services:Products"]);
 }).AddTransientHttpErrorPolicy(p => p.WaitAndRetryAsync(5, _ => TimeSpan.FromMilliseconds(500)));
 
 builder.Services.AddControllers();

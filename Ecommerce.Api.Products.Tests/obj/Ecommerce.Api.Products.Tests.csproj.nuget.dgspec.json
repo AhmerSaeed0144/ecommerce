@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj": {}
+    "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj": {
+    "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
         "projectName": "Ecommerce.Api.Products.Tests",
-        "projectPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
+        "projectPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerce.Api.Products.Tests\\Ecommerce.Api.Products.Tests.csproj",
         "packagesPath": "C:\\Users\\saeeda6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerce.Api.Products.Tests\\obj\\",
+        "outputPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerce.Api.Products.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saeeda6\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
-                "projectPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj"
+              "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+                "projectPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
+    "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectUniqueName": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "projectName": "ECommerce.Api.Products",
-        "projectPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
+        "projectPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerce.Api.Products\\ECommerce.Api.Products.csproj",
         "packagesPath": "C:\\Users\\saeeda6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerce.Api.Products\\obj\\",
+        "outputPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerce.Api.Products\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saeeda6\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,6 +136,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

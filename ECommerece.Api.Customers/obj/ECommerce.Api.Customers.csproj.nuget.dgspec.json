@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerece.Api.Customers\\ECommerce.Api.Customers.csproj": {}
+    "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerece.Api.Customers\\ECommerce.Api.Customers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerece.Api.Customers\\ECommerce.Api.Customers.csproj": {
+    "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerece.Api.Customers\\ECommerce.Api.Customers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerece.Api.Customers\\ECommerce.Api.Customers.csproj",
+        "projectUniqueName": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerece.Api.Customers\\ECommerce.Api.Customers.csproj",
         "projectName": "ECommerce.Api.Customers",
-        "projectPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerece.Api.Customers\\ECommerce.Api.Customers.csproj",
+        "projectPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerece.Api.Customers\\ECommerce.Api.Customers.csproj",
         "packagesPath": "C:\\Users\\saeeda6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\ECommerece.Api.Customers\\obj\\",
+        "outputPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\ECommerece.Api.Customers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saeeda6\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

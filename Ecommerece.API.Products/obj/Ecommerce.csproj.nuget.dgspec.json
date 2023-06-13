@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerece.API.Products\\Ecommerce.csproj": {}
+    "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerece.API.Products\\Ecommerce.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerece.API.Products\\Ecommerce.csproj": {
+    "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerece.API.Products\\Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerece.API.Products\\Ecommerce.csproj",
+        "projectUniqueName": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerece.API.Products\\Ecommerce.csproj",
         "projectName": "Ecommerce",
-        "projectPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerece.API.Products\\Ecommerce.csproj",
+        "projectPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerece.API.Products\\Ecommerce.csproj",
         "packagesPath": "C:\\Users\\saeeda6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerece.API.Products\\obj\\",
+        "outputPath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerece.API.Products\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saeeda6\\AppData\\Roaming\\NuGet\\NuGet.Config",

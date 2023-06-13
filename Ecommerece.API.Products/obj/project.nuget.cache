@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N9XCiuNBVJkiJSQyAFjw2EX93XIKyxUSDXeJkXgOhbJ8Mt0y9gCtp3U1p0Cb2u1JCegCRGqPSuEJctyTzTwmMQ==",
+  "dgSpecHash": "4X6GIA52lEYfo1ICdcnvQHJDLxgx58D7U1wxbkPYRlpFO5iYuPoAAqSPdHUWqMZ/mxjEeBtcZjF6Bi/wW3CfWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saeeda6\\source\\repos\\MicroserviceDemo\\Ecommerece.API.Products\\Ecommerce.csproj",
+  "projectFilePath": "C:\\Users\\saeeda6\\source\\repos\\EcommerceMicroServices\\Ecommerece.API.Products\\Ecommerce.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
